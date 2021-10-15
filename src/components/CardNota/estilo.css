@@ -1,0 +1,26 @@
+
+.card-nota{
+
+  background-color: var(--fundo-detalhes);
+  border-radius: 4px;
+  flex-wrap: wrap;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.3);
+  padding: 5px;
+  
+  
+}
+.card-nota_cabecalho{
+  font-size: 1.1em;
+  
+  justify-content: space-between;
+  align-items: center;
+  
+}
+
+.card-nota_titulo{
+  font-size: 1.2em;
+}
+
+.card-nota_texto{
+  font-size: 1em;
+}
